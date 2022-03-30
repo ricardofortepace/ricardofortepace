@@ -1,3 +1,11 @@
-<link href=stylesheet.css ref=stylesheet>
+<html>
+<!DOCTYPE html>
+  <head>
+    <link href="stylesheet.css" ref="stylesheet">
+  </head>
 
-<h1> TESTE </h1>
+  <body>
+    <h1> TESTE </h1>
+  </body>
+
+</html>
