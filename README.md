@@ -28,15 +28,15 @@
   </div>
 </div><br>
     
-#### About me (besides the obvious talent for centralizing Divs):
+#### About me (besides the obvious talent for centralizing Divs)
   
 Originally from São Paulo/SP and based in Itu/SP (Brazil), I have completed (in march/2022) a full stack web development course at Le Wagon. The course had the format of a bootcamp, with a total duration of 400+ hours taken in person, also in São Paulo. During the course I had the opportunity to learn and work mainly with programing logic, Ruby on Rails, Java script (Vanilla and Stimullus), HTML and CSS (Vanilla and Bootstrap), Miro and Figma. 
 
-#### My background:
+#### Background
   
 Designer graduated since 2005 and highly skilled also in communication and people/project management. Along with these skills I've worked in many companies and creative agencies around the world - industrial and graphic design jobs at the time - more specifically in São Paulo, London and Lisbon (for which I was living abroad from 2014 to 2021).
 
-#### What I am working on at the moment
+#### At the moment
 
 I am currently looking for a new position as a full stack developer where I can keep learning and give my best on becoming a highly experienced programmer.
   
