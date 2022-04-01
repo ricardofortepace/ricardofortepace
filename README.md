@@ -42,10 +42,10 @@ I am currently looking for a new position as a full stack developer where I can 
   
 #### Skills
 
-* UI/UX notions
-* Front-end 
+* UI/UX
+* Front End 
 * Javascript
-* Ruby
-* Back-end (Ruby on Rails)
+* Ruby on Rails
+* Back End
 * Git
 * Linux command line
