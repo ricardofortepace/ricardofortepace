@@ -1,6 +1,7 @@
 
 #### <h2 align="center">Hello there! I'm <b><a target="_blank" href="https://www.linkedin.com/in/ricardofortepace/">Ricardo</a></b>.</h2>
-<div align="center"> I'm a Full Stack Web Developer and Designer from Brazil.<br><br>
+<div align="center"> I'm a Full Stack Web Developer and Designer from Brazil.<br>
+  <h4>http://www.ricardofortepace.com </h4><br>
   <img src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif" width="250"/>
 </div>
 <div align="center">
